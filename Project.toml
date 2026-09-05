@@ -1,0 +1,11 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ConcurrentSim = "6ed1e86c-fcaf-46a9-97e0-2b26a2cdb499"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+QuantumSavory = "2de2e421-972c-4cb5-a0c3-999c85908079"
+ResumableFunctions = "c5292f4c-5179-55e1-98c5-05642aab7184"
